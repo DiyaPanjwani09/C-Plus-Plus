@@ -1,0 +1,98 @@
+# 💻 C++ Practice Repository
+
+Hi! 👋  
+This repository contains the C++ programs I’ve written while learning and practicing the language.
+
+I created this repo to strengthen my fundamentals, improve my logic-building skills, and keep track of my progress as I explore C++.
+
+---
+
+## 📌 What You'll Find Here
+
+This repository includes beginner-friendly C++ programs covering:
+
+- Basic syntax and structure  
+- Input and output operations  
+- Variables and data types  
+- Simple logic-building problems  
+- Small mini-projects  
+
+Each program is written with the goal of understanding concepts clearly rather than just completing the task.
+
+---
+
+## 📂 Project Structure
+
+```
+C-Plus-Plus/
+│
+├── micro_project.cpp
+├── swap.cpp
+├── .gitignore
+└── .gitattributes
+```
+
+### 📄 Program Overview
+
+- **swap.cpp**  
+  A simple program to swap two numbers.
+
+- **micro_project.cpp**  
+  A small project that applies basic C++ concepts together.
+
+More programs will be added as I continue learning 🚀
+
+---
+
+## 🛠️ How to Run the Programs
+
+1️⃣ Clone the repository  
+```bash
+git clone https://github.com/DiyaPanjwani09/C-Plus-Plus.git
+```
+
+2️⃣ Move into the project folder  
+```bash
+cd C-Plus-Plus
+```
+
+3️⃣ Compile any file  
+```bash
+g++ filename.cpp -o output
+```
+
+Example:
+```bash
+g++ swap.cpp -o swap
+```
+
+4️⃣ Run the program  
+```bash
+./swap
+```
+
+---
+
+## 🎯 Why I Made This
+
+- To practice C++ regularly  
+- To improve my problem-solving skills  
+- To build a strong programming foundation  
+- To track my learning journey  
+
+---
+
+## 📈 Future Plans
+
+- Add more problem-solving programs  
+- Include data structures and algorithms  
+- Work on slightly bigger C++ mini-projects  
+
+---
+
+## ⭐ Final Note
+
+This repository reflects my learning journey in C++.  
+If you're also learning, feel free to explore, learn, and grow together!
+
+Happy Coding 💙
