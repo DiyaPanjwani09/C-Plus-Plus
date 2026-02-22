@@ -1,4 +1,4 @@
-# 💻 C++ Practice Repository
+ 💻 C++ Practice Repository
 
 Hi! 👋  
 This repository contains the C++ programs I’ve written while learning and practicing the language.
@@ -7,7 +7,7 @@ I created this repo to strengthen my fundamentals, improve my logic-building ski
 
 ---
 
-## 📌 What You'll Find Here
+ 📌 What You'll Find Here
 
 This repository includes beginner-friendly C++ programs covering:
 
@@ -21,7 +21,7 @@ Each program is written with the goal of understanding concepts clearly rather t
 
 ---
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```
 C-Plus-Plus/
@@ -44,7 +44,7 @@ More programs will be added as I continue learning 🚀
 
 ---
 
-## 🛠️ How to Run the Programs
+ 🛠️ How to Run the Programs
 
 1️⃣ Clone the repository  
 ```bash
@@ -73,7 +73,7 @@ g++ swap.cpp -o swap
 
 ---
 
-## 🎯 Why I Made This
+ 🎯 Why I Made This
 
 - To practice C++ regularly  
 - To improve my problem-solving skills  
@@ -82,7 +82,7 @@ g++ swap.cpp -o swap
 
 ---
 
-## 📈 Future Plans
+ 📈 Future Plans
 
 - Add more problem-solving programs  
 - Include data structures and algorithms  
@@ -90,9 +90,9 @@ g++ swap.cpp -o swap
 
 ---
 
-## ⭐ Final Note
+ ⭐ Final Note
 
 This repository reflects my learning journey in C++.  
 If you're also learning, feel free to explore, learn, and grow together!
 
-Happy Coding 💙
+
